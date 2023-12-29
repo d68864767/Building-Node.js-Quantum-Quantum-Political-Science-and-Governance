@@ -1,0 +1,17 @@
+{
+  "name": "quantum-political-science",
+  "version": "1.0.0",
+  "description": "Building Node.js Quantum Quantum Political Science and Governance",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "openai": "^0.0.3",
+    "quantum-js": "^0.0.1",
+    "political-science-js": "^0.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
